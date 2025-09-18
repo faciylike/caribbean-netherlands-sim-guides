@@ -74,3 +74,10 @@ layout: default
 
 　　**希望这份指南能让你在加勒比的海风中，连接得更加自如。**
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Caribbean Netherlands eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/caribbean-netherlands-data-plans)
